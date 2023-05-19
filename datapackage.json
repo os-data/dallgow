@@ -140,7 +140,7 @@
       "hash": "46ac415607a9a5a879487fafb6782f39",
       "mediatype": "text/csv",
       "name": "offenerhaushalt11-17",
-      "path": "https://storage.openspending.org/offenerhaushalt11-17.csv",
+      "path": "https://storage.openspending.org/dallgow/offenerhaushalt11-17.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
@@ -282,7 +282,7 @@
       "hash": "6ab3a0789d32d0547d53becb07ffbf32",
       "mediatype": "text/csv",
       "name": "offenerhaushalt11-17__2011",
-      "path": "data/offenerhaushalt11-17__2011.csv",
+      "path": "https://storage.openspending.org/dallgow/offenerhaushalt11-17__2011.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
@@ -424,7 +424,7 @@
       "hash": "6e52cbe528b91ab2996ca923d19bff5d",
       "mediatype": "text/csv",
       "name": "offenerhaushalt11-17__2012",
-      "path": "data/offenerhaushalt11-17__2012.csv",
+      "path": "https://storage.openspending.org/dallgow/offenerhaushalt11-17__2012.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
@@ -566,7 +566,7 @@
       "hash": "24c5b768babaae3283011177e189cea0",
       "mediatype": "text/csv",
       "name": "offenerhaushalt11-17__2013",
-      "path": "data/offenerhaushalt11-17__2013.csv",
+      "path": "https://storage.openspending.org/dallgow/offenerhaushalt11-17__2013.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
@@ -708,7 +708,7 @@
       "hash": "4fad3b955e5c44eb9456cf22645b799b",
       "mediatype": "text/csv",
       "name": "offenerhaushalt11-17__2014",
-      "path": "data/offenerhaushalt11-17__2014.csv",
+      "path": "https://storage.openspending.org/dallgow/offenerhaushalt11-17__2014.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
@@ -850,7 +850,7 @@
       "hash": "5e401fb2f28556323e8656f97d76263e",
       "mediatype": "text/csv",
       "name": "offenerhaushalt11-17__2015",
-      "path": "data/offenerhaushalt11-17__2015.csv",
+      "path": "https://storage.openspending.org/dallgow/offenerhaushalt11-17__2015.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
@@ -992,7 +992,7 @@
       "hash": "872fbb55bd8840c5c49dd6c30bafa41a",
       "mediatype": "text/csv",
       "name": "offenerhaushalt11-17__2016",
-      "path": "data/offenerhaushalt11-17__2016.csv",
+      "path": "https://storage.openspending.org/dallgow/offenerhaushalt11-17__2016.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
@@ -1134,7 +1134,7 @@
       "hash": "a58e89b8bdd352d97a83eda7e019bdc7",
       "mediatype": "text/csv",
       "name": "offenerhaushalt11-17__2017",
-      "path": "data/offenerhaushalt11-17__2017.csv",
+      "path": "https://storage.openspending.org/dallgow/offenerhaushalt11-17__2017.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
