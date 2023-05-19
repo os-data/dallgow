@@ -140,7 +140,7 @@
       "hash": "46ac415607a9a5a879487fafb6782f39",
       "mediatype": "text/csv",
       "name": "offenerhaushalt11-17",
-      "path": "data/offenerhaushalt11-17.csv",
+      "path": "https://storage.openspending.org/offenerhaushalt11-17.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
